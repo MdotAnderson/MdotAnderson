@@ -17,9 +17,9 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mdotanderson&show_icons=true&locale=en&layout=compact" alt="MdotAnderson" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=MdotAnderson&show_icons=true&locale=en" alt="mdotanderson" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mdotanderson&show_icons=true&locale=en" alt="mdotanderson" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=MdotAnderson0&" alt="mdotanderson" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mdotanderson0&" alt="mdotanderson" /></p>
 
 <!--
 **MdotAnderson/MdotAnderson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
